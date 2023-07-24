@@ -1,2 +1,2 @@
 # Ceaser-Cipher
-Simples codificação.
+Simple coding.
